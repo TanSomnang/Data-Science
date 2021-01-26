@@ -60,13 +60,7 @@
   
   3. [Avocado Price Prediction]():Predict the avocado prices given Kaggle dataset.
   
- 
-# License
-
-MIT
-
-
 # Help
 
-If you find any mistakes or you can't figure out something, raise a question. I will get back to you as soon as possible. If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at :e-mail:shantanu97@gmail.com
-.More information about me: [LinkedIn](https://www.linkedin.com/in/shantanugupta9326/) :mag_right:
+If you find any mistakes or you can't figure out something, raise a question. I will get back to you as soon as possible. If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at :e-mail:tansomnang07@gmail.com
+.More information about me: [LinkedIn](https://www.linkedin.com/in/tan-somnang/) :mag_right:
