@@ -1,5 +1,10 @@
 # Data-Science-Portfolio:fire:
 ![alt text](https://i0.wp.com/www.data-mania.com/blog/wp-content/uploads/2017/09/building-a-data-science-portfolio.png?resize=300%2C169&ssl=1)
+
+Hey there 👋
+
+I’m Somnang, a software engineering student, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+
 ## Contents
 
 - ### R
